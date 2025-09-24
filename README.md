@@ -14,7 +14,7 @@ This project demonstrates sales data analysis using Python. The aim is to extrac
 
 
 ## 🗂️ Project Structure  
-Product_Sales_insights_Python/
+Product_Sales_insights_Python
 │── data/ # Raw datasets (CSV/Excel)
 │── notebooks/ # Jupyter notebooks for analysis
 │── scripts/ # Python scripts for automation
