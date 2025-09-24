@@ -13,17 +13,6 @@ This project demonstrates sales data analysis using Python. The aim is to extrac
 
 
 
-## 🗂️ Project Structure  
-Product_Sales_insights_Python
-│── data/ # Raw datasets (CSV/Excel)
-│── notebooks/ # Jupyter notebooks for analysis
-│── scripts/ # Python scripts for automation
-│── results/ # Plots, reports, and insights
-│── README.md # Project documentation
-
-
-
-
   📊 Key Insights  
 - Identified **top-selling products** and **seasonal sales patterns**.  
 - Analyzed **regional performance** and customer demand.  
